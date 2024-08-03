@@ -1,0 +1,11 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+#map {
+    width: 80%;
+    height: 30vh;
+    /* Full height of the viewport */
+}
