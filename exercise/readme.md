@@ -5,7 +5,7 @@
 3. user has a **user:<user_id>:stream** (STREAM type) with the elements that belong to the user_id that were updated
 4. from the user_id stream, it is push to the frontend with socket.io
 
-### Instructions
+## Instructions
 
 1. Fill the functions that has comment at their top with ## Implement:
 2. the comment ontop of each function has explanation on what to fill
