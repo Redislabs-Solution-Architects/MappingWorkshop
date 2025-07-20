@@ -1,0 +1,17 @@
+Flask
+flask-socketio
+redis
+eventlet
+
+# Image processing
+Pillow
+
+# Machine Learning and Embeddings
+sentence-transformers
+torch
+torchvision
+transformers
+
+# Optional AI libraries (comment out if not using)
+# openai==0.28.1
+# openai-clip==1.0.1
